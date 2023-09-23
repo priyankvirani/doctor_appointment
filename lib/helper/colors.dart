@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+
+const Color primaryColor = Color(0xff0165FB);
+const Color accentColor = Color(0xff0165FB);
+const Color white = Color(0xffffffff);
+const Color black = Color(0xff333333);
+const Color gray = Color(0xff676767);
+const Color inactiveColor = Color(0xffD9D9D9);
+const Color backgroundColor = Color(0xffF8F8F9);
+const Color dotColor = Color(0xff414141);
+const Color dotInactiveColor = Color(0xff676767);
+const Color shadow = Color(0xffEFEFEF);
+const Color red = Color(0xffF6465D);
+const Color green = Color(0xff0ECB81);
+const Color drawerBg = Color(0xffFEFEFF);
+const Color filledColor = Color(0xffEEEEF3);
+const Color darkGray = Color(0xffFEFEFF);
+const Color divider = Color(0xff676767);
+const Color whiteDark = Color(0xfffefefe);
+const Color grayDividerMain = Color(0xffF4F4F5);
